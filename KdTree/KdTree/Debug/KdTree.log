@@ -1,0 +1,11 @@
+﻿  pf_kdtree.cpp
+e:\c++code\kdtree\kdtree\pf_kdtree.cpp(121): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\c++code\kdtree\kdtree\pf_kdtree.cpp(122): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\c++code\kdtree\kdtree\pf_kdtree.cpp(123): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\c++code\kdtree\kdtree\pf_kdtree.cpp(160): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\c++code\kdtree\kdtree\pf_kdtree.cpp(161): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\c++code\kdtree\kdtree\pf_kdtree.cpp(162): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\c++code\kdtree\kdtree\pf_kdtree.cpp(178): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\c++code\kdtree\kdtree\pf_kdtree.cpp(179): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\c++code\kdtree\kdtree\pf_kdtree.cpp(180): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  KdTree.vcxproj -> E:\C++code\KdTree\Debug\KdTree.exe
