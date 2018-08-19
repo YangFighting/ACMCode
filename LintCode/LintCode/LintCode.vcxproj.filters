@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TwoSum.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="TeleNumber.cpp">
+    <ClCompile Include="Three_SumClosest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
