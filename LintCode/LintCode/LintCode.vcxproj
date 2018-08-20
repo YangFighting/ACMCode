@@ -20,6 +20,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Four_Sum.cpp" />
+    <ClCompile Include="Three_Sum.cpp" />
+    <ClCompile Include="Three_SumClosest.cpp" />
+    <ClCompile Include="Two_Sum.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
