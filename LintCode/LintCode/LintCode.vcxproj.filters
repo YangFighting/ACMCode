@@ -15,16 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Four_Sum.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Three_Sum.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Three_SumClosest.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Two_Sum.cpp">
+    <ClCompile Include="previousPermuation.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
