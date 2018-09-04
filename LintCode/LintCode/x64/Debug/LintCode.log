@@ -1,4 +1,6 @@
-﻿  previousPermuation.cpp
-e:\c++code\lintcode\lintcode\previouspermuation.cpp(27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-e:\c++code\lintcode\lintcode\previouspermuation.cpp(57): warning C4715: “Solution::previousPermuation”: 不是所有的控件路径都返回值
+﻿  stitchSubstring.cpp
+e:\c++code\lintcode\lintcode\stitchsubstring.cpp(25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\c++code\lintcode\lintcode\stitchsubstring.cpp(26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\c++code\lintcode\lintcode\stitchsubstring.cpp(52): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\c++code\lintcode\lintcode\stitchsubstring.cpp(143): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
   LintCode.vcxproj -> E:\C++code\LintCode\x64\Debug\LintCode.exe
