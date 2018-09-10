@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stitchSubstring.cpp">
+    <ClCompile Include="getPermutation.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
